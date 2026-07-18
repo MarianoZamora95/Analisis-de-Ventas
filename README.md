@@ -61,9 +61,11 @@ https://datastudio.google.com/u/0/reporting/34d63601-547c-45ac-8560-b3087e307984
 
 ## 📂 Contenido del repositorio
 
+- `BD Ventas.xlsx`
+-  `README.md`
 - `analisis_ventas.ipynb`
 - `dashboard.jpg`
-- `README.md`
+
 
 ---
 
