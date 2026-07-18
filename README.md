@@ -62,9 +62,15 @@ https://datastudio.google.com/u/0/reporting/34d63601-547c-45ac-8560-b3087e307984
 ## 📂 Contenido del repositorio
 
 - `BD Ventas.xlsx`
--  `README.md`
+- `README.md`
 - `analisis_ventas.ipynb`
 - `dashboard.jpg`
+
+## 📄 Fuente de los datos
+
+Los datos utilizados en este proyecto provienen de un conjunto de datos empleado con fines educativos durante un curso de Excel de Hashtag Capacitaciones.
+
+El análisis de datos, el código en Python, las visualizaciones y el dashboard fueron desarrollados como parte de este proyecto de práctica.
 
 
 ---
