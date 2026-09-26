@@ -60,7 +60,9 @@ La mayor facturación del Producto D se explica principalmente por una mayor can
 ## 💡 Conclusión Final
 
 El análisis permitió identificar que Colombia fue el país con mayor volumen de ventas dentro del conjunto analizado. Al profundizar en este mercado, se observó que el Producto D fue el principal generador de facturación.
+
 El análisis no se limitó a identificar qué país y qué producto registraban las mayores ventas, sino que permitió profundizar en los datos para comprender qué factor contribuía a ese resultado. En el caso del Producto D, su mayor facturación estuvo principalmente relacionada con una mayor cantidad de unidades vendidas.
+
 De esta manera, el proyecto permitió pasar de una visión general de las ventas a un análisis más detallado, utilizando los datos para identificar patrones y generar nuevas preguntas sobre el comportamiento comercial.
 
 ## 🔗 Enlaces
