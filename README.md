@@ -47,6 +47,22 @@ Se realizó la limpieza y exploración de los datos, el cálculo de indicadores 
 
 ---
 
+## 🔎 Hallazgos
+
+A partir del análisis realizado, se obtuvieron los siguientes resultados:
+
+Las ventas totales fueron de $4.594.150.
+Colombia fue el país con mayor volumen de ventas, con $1.358.400, representando aproximadamente el 29,6% de las ventas totales.
+Al analizar las ventas de Colombia por producto, el Producto D fue el que generó mayor facturación, con $487.200.
+El Producto D representó aproximadamente el 35,9% de las ventas de Colombia.
+La mayor facturación del Producto D se explica principalmente por una mayor cantidad de unidades vendidas.
+
+## 💡 Conclusión Final
+
+El análisis permitió identificar que Colombia fue el país con mayor volumen de ventas dentro del conjunto analizado. Al profundizar en este mercado, se observó que el Producto D fue el principal generador de facturación.
+El análisis no se limitó a identificar qué país y qué producto registraban las mayores ventas, sino que permitió profundizar en los datos para comprender qué factor contribuía a ese resultado. En el caso del Producto D, su mayor facturación estuvo principalmente relacionada con una mayor cantidad de unidades vendidas.
+De esta manera, el proyecto permitió pasar de una visión general de las ventas a un análisis más detallado, utilizando los datos para identificar patrones y generar nuevas preguntas sobre el comportamiento comercial.
+
 ## 🔗 Enlaces
 
 📓 **Google Colab**
